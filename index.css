@@ -1,0 +1,54 @@
+
+
+
+.price{
+    
+    
+    padding-top: 200px;
+}
+
+.price1{
+    text-align: right;
+}
+
+.breed1{
+    
+    text-align: left;
+}
+table, tr ,td {
+    border:1px solid black;
+    border-radius: 8px;
+     background: rgba(184, 177, 177, 0.062); /*Black  background with 0.5 opacity */
+  }
+
+  th ,h3{
+    /* border:1px solid black; */
+    border-radius: 6px;
+     background: rgba(0, 0, 0, 0.445);
+  }
+  
+  img{
+    height: 20%;
+    width: 20%;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+  
+  }
+
+
+
+  body {
+    background-image: url("images/greenBack.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  }
+
+  articleDog{
+
+    width:80%; 
+    margin:0 auto; 
+    padding-top: 50px;
+  }
+
+  
